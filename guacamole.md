@@ -9,3 +9,5 @@ Serves 4
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
 - 3 avocados
+- 5 teaspoon cream cheese 
+- 1 tea bag
