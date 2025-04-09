@@ -9,3 +9,4 @@ Serves 4
 - 1 lime, juiced
 - 0.25 teaspoon kosher salt
 - 3 avocados
+- Pepper
