@@ -9,3 +9,5 @@ Serves 4
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
 - 3 avacados (large size) 
+- Mangoes (optional if avagado is not available)
+- add pepper if Chilly is not available 
