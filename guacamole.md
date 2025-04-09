@@ -10,3 +10,4 @@ Serves 4
 - 0.5 teaspoon sea salt
 - 3 avocados
 - a cup of love
+- just went to mexico
