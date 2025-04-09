@@ -9,4 +9,4 @@ Serves 4
 - 1 jalapeno pepper, seeds removed and finely diced
 - 2 garlic cloves, minced
 - 1 lime, juiced
-- 0.5 teaspoon sea salt
+- 0.5 teaspoon sea salt and pepper
