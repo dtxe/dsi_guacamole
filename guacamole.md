@@ -10,3 +10,4 @@ Serves 4
 - 0.25 teaspoon kosher salt
 - 3 avocados
 - Pepper
+-Lemon
