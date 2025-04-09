@@ -9,4 +9,3 @@ Serves 4
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
 - 3 avocados
-- a lot of love
