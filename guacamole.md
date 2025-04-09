@@ -1,3 +1,4 @@
+
 # Recipe for Guacamole
 Serves 4
 
@@ -8,3 +9,6 @@ Serves 4
 - 2 garlic cloves, minced
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
+- 3 avocados
+- 1 tsp water
+
