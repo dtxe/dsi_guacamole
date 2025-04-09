@@ -1,6 +1,8 @@
 # Recipe for Guacamole
+
 Serves 4
 
+- 4 Avocados
 - 0.5 small yellow onion, finely diced
 - 2 Roma tomatoes, diced
 - 3 tablespoons finely chopped fresh cilantro
