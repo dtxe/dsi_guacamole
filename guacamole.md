@@ -1,4 +1,4 @@
-# Recipe for Guacamole
+Recipe for Guacamole
 Serves 4
 
 - 0.5 small yellow onion, finely diced
@@ -9,3 +9,4 @@ Serves 4
 - 1 lime, juiced
 - 0.5 teaspoon sea salt
 - 3 avocados
+- a cup of love
