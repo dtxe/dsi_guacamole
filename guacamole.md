@@ -7,4 +7,6 @@ Serves 4
 - 1 jalapeno pepper, seeds removed and finely diced
 - 2 garlic cloves, minced
 - 1 lime, juiced
-- 0.5 teaspoon sea salt
+- 1 teaspoon sea salt make it hella salty
+- 3 aguacates
+- doing this to try to add comment via gitbash
