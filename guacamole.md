@@ -1,4 +1,4 @@
-# Recipe for Guacamole
+# Recipe for Guacamole - add gaucamole
 Serves 4
 
 - 0.5 small yellow onion, finely diced
@@ -7,4 +7,4 @@ Serves 4
 - 1 jalapeno pepper, seeds removed and finely diced
 - 2 garlic cloves, minced
 - 1 lime, juiced
-- 0.5 teaspoon sea salt
+- 0.25 teaspoon kosher salt
