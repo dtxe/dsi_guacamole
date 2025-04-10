@@ -1,5 +1,5 @@
 # Recipe for Guacamole
-Serves 4
+Serves 10
 
 - 0.5 small yellow onion, finely diced
 - 2 Roma tomatoes, diced
