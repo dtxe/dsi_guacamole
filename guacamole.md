@@ -9,3 +9,4 @@ Serves 10
 - 6 garlic cloves, minced
 - 3 lime, juiced
 - 1.5 teaspoon sea salt
+- BEANS
