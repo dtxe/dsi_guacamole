@@ -12,7 +12,7 @@ Serves 10
 - 3 avocados
 - 5 teaspoon cream cheese 
 - 1 tea bag
-=======
+
 - 9 avocados, ripe
 - 1.5 small yellow onion, finely diced
 - 6 Roma tomatoes, diced
@@ -21,4 +21,6 @@ Serves 10
 - 6 garlic cloves, minced
 - 3 lime, juiced
 - 1.5 teaspoon sea salt
->>>>>>> ee5680b7bdd354aef34edb359aa503074e841ee3
+
+- new information added here
+- test
